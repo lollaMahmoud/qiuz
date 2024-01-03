@@ -1,0 +1,25 @@
+
+.bor{
+    border: solid 2px black ;
+    width: 55%;
+    height: 70%;
+  
+}
+a
+{
+    width: 40%;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px black;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+}
+
+.b{
+    border: solid 2px black ;
+    width: 35%;
+    padding-left: 15px;
+    height: 30%;
+}
